@@ -10,16 +10,16 @@ namespace Fujin.System
 {
     
     /// <summary>
-    /// Dear me in the future,
+    /// Dear myself in the future,
     ///
-    /// I hope this message finds you well. I am Ryoji Araki, a crazy game dev.
+    /// I hope this message finds you well. I am Ryob, a crazy game dev.
     /// Please make sure to take a look at files "Constants.SoundName" and {insert json file name} for any modifications/updates
     /// and "Constants.ClipType" for suffix reference.
     ///
     /// Thanks!
     ///
     /// Sincerely,
-    /// Ryoji Araki
+    /// Ryob
     /// </summary>
     public class AudioManager : MonoBehaviour
     {
